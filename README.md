@@ -10,3 +10,5 @@ The model is trained to classify four different professions, such as:
   
 After building the model, I tested it using a Python script that allows the user to input an image, and the model tries to predict the profession shown in the image.
 
+![Result](Result.png)
+
