@@ -1,0 +1,4 @@
+0 Programmer / Developer
+1 Engineer
+2 Designer(ui/ux-graphic)
+3 Dector
